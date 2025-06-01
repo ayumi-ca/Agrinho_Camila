@@ -1,0 +1,1 @@
+O objetivo do jogo é apagar todos os focos de incêndio que ameaçam a floresta. Para isso, o jogador controla uma nuvem que pode se mover para os lados e soltar gotas de chuva. Ao acertar os focos com as gotas, o fogo é apagado. Quando todos os focos forem eliminados, a floresta é salva!
